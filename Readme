@@ -1,0 +1,11 @@
+1) Criar uma função para criar uma tarefa
+
+2) Criar o JSON para simular um banco de dados
+
+3) Criar uma função que ler o 'banco de dados' e atualiza na tela
+
+4) Criar um função para inserir uma nova terefa na lista
+
+5) Identificando as tarefas com um indice para ser alterado no banco de dados
+
+6) Criar ação que remove os itens da lista
